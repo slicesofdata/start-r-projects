@@ -1,7 +1,7 @@
 #############################################################################
 # specify the directories
 directories <- c(
-  "_ignored",
+  "_ignore_this_dir",
   "data",
   "data/raw",
   "data/interim",
@@ -86,7 +86,7 @@ Rplots.pdf
 
 ##############################################################################
 ## complete directories to ignore ##
-_ignored/
+_ignore_this_dir
 ##############################################################################
 
 ## image/pdf files ##
